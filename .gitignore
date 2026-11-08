@@ -1,0 +1,5 @@
+*.asv
+*.slxc
+slprj/
+*.autosave
+*~
